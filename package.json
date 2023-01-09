@@ -1,7 +1,7 @@
 {
   "name": "create-ssy-poicc-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "ssy-ui-vite脚手架",
   "main": "index.js",
   "scripts": {
     "build": "vite build",
